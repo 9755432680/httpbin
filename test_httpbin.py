@@ -6,7 +6,7 @@ import unittest
 import contextlib
 import six
 import json
-from werkzeug.http import _dt_as_utc
+from werkzeug.http import _dt_as_ut
 from hashlib import md5, sha256, sha512
 from six import BytesIO
 
